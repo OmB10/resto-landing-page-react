@@ -10,8 +10,8 @@
 }
 
 .aboutus-overlay img {
-  /* width: 391px;
-  height: 415px; */
+  width: 391px;
+  height: 415px;
   z-index: 0;
 }
 
@@ -78,6 +78,6 @@
 @media screen and (max-width: 650px) {
   .aboutus-overlay img {
     width: 80%;
-    height: 320px;
+    height: auto;
   }
 }

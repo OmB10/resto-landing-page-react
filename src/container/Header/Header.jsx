@@ -13,7 +13,7 @@ const Header = () => {
                 <button type="button" className="custom-button">Explore Menu</button>
             </div>
 
-            <div className="wrapper-img">
+            <div className="app-wrapper-img app-wrapper-img-reverse">
                 <img src={images.welcome} alt="header-img" />
             </div>
         </div>
